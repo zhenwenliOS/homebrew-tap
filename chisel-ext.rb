@@ -5,7 +5,7 @@ class ChiselExt < Formula
   desc ""
   homepage ""
   url "https://github.com/zhenwenliOS/chisel/blob/master/package/chisel-ext-1.8.1.tar.gz"
-  sha256 "715866fc008cfeaabbeca7e77aec050e2854176fcecf635266ed44862011ba6c"
+  sha256 "e0fa2108047d4179e8d0e1981700ebcfc829e10bd97ad143a4ca4de6104da986"
 
   depends_on "cmake" => :build
 
